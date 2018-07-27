@@ -1,0 +1,60 @@
+header {
+  background-color: rgba(32, 62, 97, .2);
+}
+
+h1 {
+  text-align: right;
+  font-weight: bold;
+  font-size: 50px;
+  font-family: 'Eczar', serif;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+  text-align: right;
+  font-family: 'Merriweather', serif;
+  color: #787D7A;
+  font-size: 30px;
+}
+
+main {
+  position: relative;
+  background-color: #DEE1E3
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  text-align: left;
+  font-size: 24px;
+  font-color: rgb(48, 93, 145);
+  font-family: 'Eczar', serif;
+}
+
+span {
+  text-align: right;
+}
+
+div {
+  width: 600px;
+  margin: auto;
+}
+
+footer {
+  background-color: #D6DADB;
+}
+
+.turtle {
+  margin: auto;
+  with: 600px;
+}
+
+.footerstuff {
+  text-align: right;
+  bottom: 20px;
+  right: 20px;
+}
